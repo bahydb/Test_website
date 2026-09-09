@@ -1,0 +1,20 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bitwise": "^2.2.1",
+    "express": "^5.2.1",
+    "jest": "^30.2.0",
+    "nodemailer": "^8.0.1",
+    "nodemailer-mailgun-transport": "^2.1.5"
+  }
+}
